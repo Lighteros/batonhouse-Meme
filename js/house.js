@@ -1,7 +1,7 @@
 const SITE = {
   name: "batonhouse",
   symbol: "batonhouse",
-  mint: "",
+  mint: "HZjkZaxjNdWZeEjd99E1pD9koWykMbzaMwADjrbGpump",
   x: "https://x.com/batonhousesol",
   pumpHome: "https://pump.fun",
   pumpCoin: "https://pump.fun/coin/",
